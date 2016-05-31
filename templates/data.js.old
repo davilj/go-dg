@@ -1,0 +1,6 @@
+var elements2 = [
+
+  { group: "nodes", data: { id: "n0" }  },
+  { group: "nodes", data: { id: "n1" } },
+  { group: "edges", data: { id: "e0", source: "n0", target: "n1" } }
+]
